@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vegetable Live Detection</string>
+    <string name="no_permission">Did not get permission</string>
+    <string name="open_kamera">Open Camera</string>
+    <string name="check_detail">Check Detail</string>
+</resources>
